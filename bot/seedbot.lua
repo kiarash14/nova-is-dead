@@ -229,27 +229,23 @@ function create_config( )
     sudo_users = {110626080,103649648,143723991,111020322,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
+    about_text = [[ghost  v2 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
-https://github.com/SEEDTEAM/TeleSeed
+https://github.com/mamadiraner/nova-is-dead
 
-Our team!
-Alphonse (@Iwals)
-I M /-\ N (@Imandaneshi)
-Siyanew (@Siyanew)
-Rondoozle (@Potus)
-Seyedan (@Seyedan25)
+@NOVA_PAYDAR [DEVELOPER]
 
 Special thanks to:
 Juan Potato
 Siyanew
 Topkecleon
-Vamptacus
+Vamptacus 
+seedteam
 
 Our channels:
-English: @TeleSeedCH
-Persian: @IranSeed
+
+Persian: https://telegram.me/ghost_team_channel
 ]],
     help_text_realm = [[
 Realm Commands:
